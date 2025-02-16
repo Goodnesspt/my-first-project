@@ -1,0 +1,1 @@
+I learnt about excel function, usses and how it helps in making day to day decisions. I learnt how to sum data, look for the minimum and maximum value of data, count data and of course how to create a table(chart) from a data.
